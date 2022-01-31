@@ -37,6 +37,8 @@ namespace _20109982_GADE_SUP
             this.loadButton = new System.Windows.Forms.Button();
             this.saveButton = new System.Windows.Forms.Button();
             this.buyButton = new System.Windows.Forms.Button();
+            this.consoleRTB = new System.Windows.Forms.RichTextBox();
+            this.KeyPressLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // heroLabel
@@ -109,11 +111,30 @@ namespace _20109982_GADE_SUP
             this.buyButton.Text = "Buy";
             this.buyButton.UseVisualStyleBackColor = true;
             // 
+            // consoleRTB
+            // 
+            this.consoleRTB.Location = new System.Drawing.Point(632, 13);
+            this.consoleRTB.Name = "consoleRTB";
+            this.consoleRTB.Size = new System.Drawing.Size(156, 196);
+            this.consoleRTB.TabIndex = 8;
+            this.consoleRTB.Text = "";
+            // 
+            // KeyPressLabel
+            // 
+            this.KeyPressLabel.AutoSize = true;
+            this.KeyPressLabel.Location = new System.Drawing.Point(753, 212);
+            this.KeyPressLabel.Name = "KeyPressLabel";
+            this.KeyPressLabel.Size = new System.Drawing.Size(35, 13);
+            this.KeyPressLabel.TabIndex = 9;
+            this.KeyPressLabel.Text = "label1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.KeyPressLabel);
+            this.Controls.Add(this.consoleRTB);
             this.Controls.Add(this.buyButton);
             this.Controls.Add(this.saveButton);
             this.Controls.Add(this.loadButton);
@@ -139,6 +160,8 @@ namespace _20109982_GADE_SUP
         private System.Windows.Forms.Button loadButton;
         private System.Windows.Forms.Button saveButton;
         private System.Windows.Forms.Button buyButton;
+        private System.Windows.Forms.RichTextBox consoleRTB;
+        private System.Windows.Forms.Label KeyPressLabel;
     }
 }
 
