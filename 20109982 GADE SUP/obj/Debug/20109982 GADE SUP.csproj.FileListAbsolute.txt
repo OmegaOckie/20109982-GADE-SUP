@@ -1,0 +1,10 @@
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\bin\Debug\20109982 GADE SUP.exe.config
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\bin\Debug\20109982 GADE SUP.exe
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\bin\Debug\20109982 GADE SUP.pdb
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\obj\Debug\20109982 GADE SUP.csprojAssemblyReference.cache
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\obj\Debug\_20109982_GADE_SUP.Form1.resources
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\obj\Debug\_20109982_GADE_SUP.Properties.Resources.resources
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\obj\Debug\20109982 GADE SUP.csproj.GenerateResource.cache
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\obj\Debug\20109982 GADE SUP.csproj.CoreCompileInputs.cache
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\obj\Debug\20109982 GADE SUP.exe
+C:\Users\ockie\OneDrive\Documents\VEGA\2nd Year\SUP\20109982 van Wyk SUP GADE 6112\20109982-GADE-SUP\20109982 GADE SUP\obj\Debug\20109982 GADE SUP.pdb
