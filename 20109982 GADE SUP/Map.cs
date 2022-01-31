@@ -16,7 +16,7 @@ namespace _20109982_GADE_SUP
         Tile[,] mapArray;
         Hero hero;
         public Shop shop;
-        public Enemey[,] enemeyArray;
+        public Enemy[,] enemeyArray;
         public Item[,] itemarray;
         int MinWidth_X;
         int MaxWidth_X;
@@ -46,7 +46,7 @@ namespace _20109982_GADE_SUP
         public int MaxHeight_Y1 { get => MaxHeight_Y; set => MaxHeight_Y = value; }
         public int MinWidth_X1 { get => MinWidth_X; set => MinWidth_X = value; }
         internal Item[,] Itemarray { get => itemarray; set => itemarray = value; }
-        internal Enemey[,] EnemeyArray { get => enemeyArray; set => enemeyArray = value; }
+        internal Enemy[,] EnemeyArray { get => enemeyArray; set => enemeyArray = value; }
 
         public void populateArray()
         {
@@ -103,7 +103,7 @@ namespace _20109982_GADE_SUP
             MaxHeight_Y1 = RandomNumber(minHeight_Y + 5, maxHeight_Y - 1);
 
             mapArray = new Tile[MaxWidth_X1, MaxHeight_Y1];
-            enemeyArray = new Enemey[MaxWidth_X1, MaxHeight_Y1];
+            enemeyArray = new Enemy[MaxWidth_X1, MaxHeight_Y1];
             itemarray = new Item[MaxWidth_X1, MaxHeight_Y1];
 
 

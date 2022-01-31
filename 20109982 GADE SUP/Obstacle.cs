@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TAsk1_v._2
+namespace _20109982_GADE_SUP
 {
     [Serializable]
     class Obstacle : Tile
