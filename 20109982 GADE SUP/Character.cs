@@ -61,7 +61,7 @@ namespace _20109982_GADE_SUP
 
 
         }
-        public virtual bool ChcekRAnge(Character target)
+        public virtual bool CheckRange(Character target)
         {
             if (DistanceTo(target) <= range)
             {
